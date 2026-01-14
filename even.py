@@ -4,4 +4,4 @@ def is_even(n):
     else:
         return False
 
-print(is_even(10))
+print(is_even(20))
